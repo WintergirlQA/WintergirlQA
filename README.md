@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1>Hi, I'm Olena! </h1>
 
-<!--
-**WintergirlQA/WintergirlQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Here there are some my technical skills: </h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Knowledge of:</b>
+  - SDLC & STLC
+  - Software Development Methodologies
+  - Bug tracking systems
+  - Basic principles of testing
+  - Types, Methods, Levels of testing and Testing approaches
+  - Client-Server architecture, Network protocols & OSI model
+  - Estimation techniques
+- <b>Practical usage of:</b>
+  - Agile methodologies (Scrum, Kanban)
+  - Jira
+  - Test Design techniques preparing Test cases
+  - Chrome devtools
+  - Terminal
+  - Figma
+- <b>Creation and execution of test cases, bug reports, use cases, various checklists</b>
+- <b>Manual Web/Mobile Testing</b>
+- <b>API Testing via Postman</b>
+- <b>Functional and Non-functional Web testing</b>
+- <b>Performance testing via Jmeter</b>
+- <b>SQL</b>
